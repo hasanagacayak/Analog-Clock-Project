@@ -1,0 +1,11 @@
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\bin\Debug\Analoc-Clock.exe.config
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\bin\Debug\Analoc-Clock.exe
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\bin\Debug\Analoc-Clock.pdb
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc-Clock.csproj.AssemblyReference.cache
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc-Clock.csproj.SuggestedBindingRedirects.cache
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc_Clock.Form1.resources
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc_Clock.Properties.Resources.resources
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc-Clock.csproj.GenerateResource.cache
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc-Clock.csproj.CoreCompileInputs.cache
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc-Clock.exe
+D:\Hasan\Online Eğitim\4.Sınıf1.Dönem\Staj\C#\eski zipler\gönderilecek_analoc\gönderilecek_analoc\obj\Debug\Analoc-Clock.pdb
