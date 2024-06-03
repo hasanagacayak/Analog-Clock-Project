@@ -28,7 +28,7 @@ Clock hands (second, minute, and hour) are drawn using the DrawLine method.
 
 Current time is retrieved using DateTime.Now, and positions of clock hands are adjusted accordingly.
 
-# Time Calculation:
+Time Calculation:
 A Timer control updates the clock and calculates the remaining time.
 
 Functions msCoord and hrCoord calculate the angles of the clock hands based on 360-degree rotation logic.
